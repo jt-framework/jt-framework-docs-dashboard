@@ -1,0 +1,1 @@
+import{_ as o}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as t,c as n,b as e}from"./app-NTN8a9qN.js";const r={},c=e("h1",{id:"基本术语",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#基本术语"},[e("span",null,"基本术语")])],-1),s=[c];function a(_,l){return t(),n("div",null,s)}const m=o(r,[["render",a],["__file","terminology.html.vue"]]);export{m as default};
